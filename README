@@ -1,0 +1,9 @@
+Program to create model and generate submission for Kaggle competition
+
+Contest:
+AMS 2013-2014 Solar Energy Radiation contest (sponsored by Earthrisk)
+
+Code is derived from two sources:
+1) Miroslaw's and Paul Duan's forum code from the Amazon challenge
+2) Alec Radford's forum code from the Earthrisk competition
+
